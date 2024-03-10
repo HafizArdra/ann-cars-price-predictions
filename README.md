@@ -23,5 +23,3 @@ Kedua model dievaluasi dengan menggunakan skor R-squared pada data pengujian, se
 <h2>Conclusion</h2>
 Secara keseluruhan, model ANN terbukti lebih efektif dalam memprediksi harga mobil dibandingkan dengan regresi linear. Dengan memanfaatkan jaringan saraf, model ANN mampu menangkap hubungan non-linear dalam data, menghasilkan kinerja prediktif yang lebih baik. Proyek ini menunjukkan kegunaan jaringan saraf tiruan dalam tugas regresi dan menyoroti pentingnya memilih model pembelajaran mesin yang sesuai untuk dataset dan tugas yang berbeda.
 
-<h3><i>Note:</i></h3>
-Confusion matrix dan classification report tidak digunakan dalam proyek ini karena lebih cocok untuk masalah klasifikasi, sedangkan proyek ini berfokus pada regresi. Sebagai gantinya, metrik evaluasi regresi seperti skor R-squared, MAE, dan MSE digunakan.
